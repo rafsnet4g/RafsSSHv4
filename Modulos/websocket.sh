@@ -344,6 +344,6 @@ screen -dmS pythonwe python proxy.py -p 80&
 }
 fun_bar 'inst_py'
 rm -rf proxy.py
-echo -e "                 INSTALAÇÃO CONCLUIDA\n\n By: RAFS NET 4G "
+echo -e "                 INSTALAÇÃO CONCLUIDA "
 
 echo 
