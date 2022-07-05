@@ -19,7 +19,7 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/rafsnet4g/RafsSS
 
 # Definir/Alterar senha root
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/rafsnet4g/RafsSSHv4/main/senharoot.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/rafsnet4g/RafsSSHv4/main/senharoot.ssh)
 ```
 ![logo](https://github.com/rafsnet4g/RafsSSHv4/blob/main/imagens/icon1.png)
 ![logo](https://github.com/rafsnet4g/RafsSSHv4/blob/main/imagens/icon2.png)
