@@ -2,8 +2,14 @@
 
 # Sistema Operacional Testados
 ''''
-Ubuntu 16 / Ubuntu 18 / Ubuntu 20 / Debian 9
-86x64, x64, ARM, ARM64
+• UBUNTU 18 x64 
+• UBUNTU 20 x64 
+• DEBIAN  9 x64 
+• DEBIAN 10 x64 
+• DEBIAN 11 x64 
+
+• USE UBUNTU 18 x64 PARA UMA MELHOR EXPERIÊNCIA
+• USE UBUNTU 18 x64 PARA (V2RAY) EVITEM OUTROS SISTEMAS
 ''''
 
 # Atualizar Pacotes do Sistema
